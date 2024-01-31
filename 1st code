@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="description"content="my first website">
+<meta name="keywords"content="hrml, css, learning">
+<meta name="author" content="Nina Mladenović">
+<title>Fakebook</title>
+
+
+</head>
+<body>
+<h1><u><strong>Pixie</strong></u> the black cat</h1>
+<h2><i>A little bit about me </i></h2>
+<h3>I am seven and I am <em>cute</em> as a ten</h3>
+
+<h4><b>Bellow is a photo of me:</b></h4>
+
+<img src="https://images.unsplash.com/photo-1503431128871-cd250803fa41?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt=""height="300" width="450">
+
+<h1><u>MEOW!</u></h1>
+<a href="https://www.google.com/search?q=black+cat&tbm=isch&ved=2ahUKEwj7wtjR2YWEAxU5yAIHHdZVCFkQ2-cCegQIABAA&oq=black+cat&gs_lcp=CgNpbWcQAzIKCAAQgAQQigUQQzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoECCMQJzoLCAAQgAQQsQMQgwE6DQgAEIAEEIoFEEMQsQM6CAgAEIAEELEDUPoKWOgXYJcaaABwAHgAgAGeAYgBmwiSAQM3LjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=Uzq5ZbvNBLmQi-gP1quhyAU&bih=744&biw=1034#imgrc=FpH2M6ZwN5pwSM">Click here for more of my photos</a>
+<h2>My fav food</h2>
+<ol>
+  <li>chicken</li>
+   <li>fish</li>
+   <li>cheese</li>
+</ol>
+</body>
+</html>
